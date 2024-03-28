@@ -92,7 +92,7 @@ h3{
 }
 
 ul{
-    /* padding: 20px ; */
+    
     font-weight: bold;
 }
 
@@ -102,10 +102,7 @@ ul a{
     transition:  2.5s;
 }
 
-/* .landing_page ul a:hover, a.active{
-    color:white;
-    border: 1px solid white;
-} */
+
 
  .landing_page img{
     color: white;
@@ -157,7 +154,7 @@ footer a{
     list-style: none;
     text-decoration: none;
     margin: 10px;
-    /* gap: 50px; */
+    
 }
 .footer-bottom p{
     text-align: center;
